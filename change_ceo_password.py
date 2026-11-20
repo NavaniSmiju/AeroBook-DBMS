@@ -18,7 +18,7 @@ password_hash = f"pbkdf2_sha256${ITERATIONS}${salt}${digest}"
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Wednesday@81",
+    password="**********",
     database="aerobook_db"
 )
 
