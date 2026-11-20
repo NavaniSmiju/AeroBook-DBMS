@@ -1,0 +1,10 @@
+# Virtual environments
+.venv/
+.venv_ortools/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Private staff credentials
+aerobook_staff_initial_credentials.csv
